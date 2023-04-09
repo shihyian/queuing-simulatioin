@@ -1,0 +1,40 @@
+#text-area {
+	width: 20%;
+	background-color: #ffffff;
+	padding: 1%;
+	box-sizing: border-box;
+	text-align: center;
+	border-radius: 8px;
+}
+#control-panel {
+	height: 100%;
+	background-color: #fff;
+	padding: 5% 5%;
+	box-sizing: border-box;
+	border-radius: 8px;
+	font-family: "Mukta", sans-serif;
+}
+.bar-group-title {
+	background-color: #ebebeb;
+	font-weight: 500;
+	box-sizing: border-box;
+	padding-left: 10px;
+}
+.short-bar {
+	width: 100px;
+}
+
+/* [data-animation]{
+	animation:
+		var(--aninm, none)
+		var(--animdur, 1s)
+		var(--animtf, linear)
+		var(--animdel, 0s)
+		var(--animps, running)
+} */
+
+.cus-in-anim {
+	position: absolute;
+	left: 0;
+	transition: left 0s linear 0s;
+}
