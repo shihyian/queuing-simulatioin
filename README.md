@@ -6,9 +6,10 @@
 1. 排隊人數
 2. arrival rate, service rate, arrival and service cv(coefficient of variation)
 3. 動畫倍速（考慮到瀏覽器的負擔，超過20x即停用排隊動畫，僅顯示動態圖表）
+4. 隨時可以暫停動畫調整參數再播放
 
-**歡迎提交issue或PR**
-
-
+### 操作範例：
 https://user-images.githubusercontent.com/59113096/230761121-657908fa-c598-4eb3-81e2-67f88b1932ba.mp4
+
+**歡迎提交issue或PR❤❤**
 
