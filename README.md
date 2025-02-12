@@ -1,5 +1,6 @@
 # queuing-simulatioin
 網址：https://shihyian.github.io/queuing-simulatioin/main.html
+網址
 
 ### 主要功能：
 在不同arrival和service rate，及inter arrival rate和process time變異程度下模擬排隊情形，介面包含control panel, svg animation及動態圖表。
